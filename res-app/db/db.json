@@ -1,0 +1,38 @@
+{
+"login":[
+  {
+    "name": "vishwa",
+    "password": "123"
+  }
+],
+"restaurant": [
+    {
+      "name": "Pizza Hut",
+      "email": "pizzahut@test.com",
+      "rating": "5",
+      "address": "New Delhi",
+      "id": 1
+    },
+    {
+      "id": 5,
+      "name": "Baroda Sandwich",
+      "address": "Vadodara",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "name": "lapinoz",
+      "email": "lapinoz@gmail.com",
+      "rating": "5",
+      "address": "mumbai",
+      "id": 6
+    },
+    {
+      "name": "punjabi",
+      "email": "pun@gmail.com",
+      "rating": "4",
+      "address": "punjab",
+      "id": 7
+    }
+  ]
+}
